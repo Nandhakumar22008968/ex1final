@@ -126,9 +126,11 @@ Y= A⊕B
 
 
 ## RTL Schematic:
+![Screenshot_20230521_095534](https://github.com/Nandhakumar22008968/ex1final/assets/129037794/6e893dfb-4348-40f5-a509-8485053b3946)
 
 
 ## Timing Diagram:
+![Screenshot_20230521_100834](https://github.com/Nandhakumar22008968/ex1final/assets/129037794/33e37a71-0ab1-494b-b833-5ba4da2c2012)
 
 
 
