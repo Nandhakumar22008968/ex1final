@@ -139,7 +139,8 @@ endmodule
 
 
 ## RTL Schematic:
-![Screenshot_20230521_095534](https://github.com/Nandhakumar22008968/ex1final/assets/129037794/6e893dfb-4348-40f5-a509-8485053b3946)
+![Screenshot_20230526_021209](https://github.com/Nandhakumar22008968/ex1final/assets/129037794/8832a78f-6096-442a-ac05-66dbf396d67b)
+
 
 
 ## Timing Diagram:
